@@ -10,6 +10,16 @@ Bora começar....
 
 * **Dia 1**
 
-  Instalação do Python: <https://www.python.org/downloads/>
-  
-  Criação do HelloWorld
+  1. Instalação do Python
+  2. Criação do HelloWorld
+
+* **Dia 2**
+
+  1. Usar a API YFinance para buscar os dados de uma ação
+  2. Criar um gráfico de linhas com o preço de fechamento do ativo
+
+* **Dia 3**
+
+  1. Usar o site Fundamentus para buscar dados das ações
+  2. Selecionar ações para investir a partir de alguns critérios
+ 
