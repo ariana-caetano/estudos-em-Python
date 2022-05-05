@@ -6,7 +6,7 @@ Esse mesmo estudo também será realizado em R!!
 
 Vou utilizar o arquivo README como uma espécie de diário
 
-E desde já vou agradecendo a todos que postaram algum conteúdo na internet, pois será minha fonte de buscas pra qualquer coisa que eu vou codificar aqui (CTRL+C e CTRL+V de várias funções)
+E desde já vou agradecendo a todos que postaram algum conteúdo na internet, pois será minha fonte de buscas pra qualquer coisa que eu vou codificar aqui.
 
 Bora começar....
 
