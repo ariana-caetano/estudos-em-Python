@@ -1,27 +1,13 @@
 # estudos-em-Python
 Esse repósitório é o começo dos meus estudos em **Python**.
-Começando pelo tradicional **Hello World**, para entender como o Python funciona, e tendo como objetivo final um script com **backtest de algum setup para fazer trades no mercado financeiro** (vou definir o setup posteriormente)
-Todos os scripts criados entre o início e o fim desse projeto ficarão disponíveis aqui.
-Esse mesmo estudo também será realizado em R!!
+Começando pelo tradicional **Hello World**, para entender como o Python funciona e como montar o ambiente e depois vamos complicando um pouquinho mais.
 
-Vou utilizar o arquivo README como uma espécie de diário
+Meu objetivo de estudos é Ciência de Ddaos voltado para o mercado financeiro, entender como obter e tratar os dados e até automatizar a  ontagem de uma carteira e setups de trades.
 
-E desde já vou agradecendo a todos que postaram algum conteúdo na internet, pois será minha fonte de buscas pra qualquer coisa que eu vou codificar aqui.
+Todos os scripts criados durante os meus estudos ficarão disponíveis aqui
+E desde já, agradeço a todos que postaram algum conteúdo na internet, pois já percebi que existe muito material e vou usá-los muito pra aprender.
 
 Bora começar....
 
-* **Dia 1**
-
-  1. Instalação do Python
-  2. Criação do HelloWorld
-
-* **Dia 2**
-
-  1. Usar a API YFinance para buscar os dados de uma ação
-  2. Criar um gráfico de linhas com o preço de fechamento do ativo
-
-* **Dia 3**
-
-  1. Usar o site Fundamentus para buscar dados das ações
-  2. Selecionar ações para investir a partir de alguns critérios aleatórios
+* Hello World
  
