@@ -9,5 +9,5 @@ E desde já, agradeço a todos que postaram algum conteúdo na internet, pois j�
 
 Bora começar....
 
-* Hello World
+* Hello World: o mais difícil de todos :laughing: (20220503_HelloWorld.py)
  
