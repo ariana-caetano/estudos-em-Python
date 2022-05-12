@@ -11,5 +11,5 @@ Bora começar....
 
 * Hello World: o mais difícil de todos :laughing: (20220503_HelloWorld.py)
 * Dados de Petrobras: consulta dados de Petrobras e exibe um gráfico do preço de fechamento e médias de 9 e 21 períodos (200220505_dadosPETR4.py)
-* Fórmula Mágica de Greenblat: exibe a lista das 20 melhores ações segundo a fórmula de Greenblat (em breve...) 
+* Fórmula Mágica de Greenblat: exibe a lista das 20 melhores ações segundo a fórmula de Greenblat (20220512_formulaGreenblat.ipynb) 
  
